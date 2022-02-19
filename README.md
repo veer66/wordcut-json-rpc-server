@@ -34,3 +34,6 @@ var_dump($client->execute("put_delimiters", ["กากากา", "|"]));
 // COPY wordcut_client_example.php /work/wordcut_client_example.php
 // ENTRYPOINT ["php", "wordcut_client_example.php"]
 ```
+## Discussion
+
+* [https://matrix.to/#/#thai-elixir-lang-community:matrix.org](https://matrix.to/#/#thai-elixir-lang-community:matrix.org)
